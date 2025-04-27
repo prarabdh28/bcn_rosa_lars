@@ -1,3 +1,4 @@
+The repository contains example files and jupyter notebooks to train deep learning models on chip-seq data. 
 
 First, clone the repository at https://github.com/de-Boer-Lab/random-promoter-dream-challenge-2022
 
